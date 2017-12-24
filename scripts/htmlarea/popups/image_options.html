@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<title>Image Options</title>
+
+<style type="text/css">
+
+input { font-family: verdana; }
+
+</style>
+
+<script>
+
+function choose_option() {
+
+  for (j=0; j<2; j++) { 
+    if (eval("document.forms[0].options" + "[" + j + "].checked")) { 
+		  choice = (eval("document.forms[0].options[" + j + "].value")); 
+	  } 
+  }
+	
+	window.close();	
+	opener.chooser(choice); // send user's choice back. 
+	
+}
+
+</script>
+
+</head>
+<body bgcolor="#CCCCCC">
+
+<form>
+
+<table width="200" cellpadding="4">
+<tr><td>
+<table cellpadding="0" cellspacing="0">
+<tr>
+  <td><input type="radio" name="options" value="insert" checked>
+	    <font face="verdana" size="-1" color="#990000">Insert into document</font></td>
+</tr>
+<!--<tr>
+  <td><input type="radio" name="options" value="info">
+	    <font face="verdana" size="-1">View image info</font></td>
+</tr>
+<tr>
+  <td><input type="radio" name="options" value="view">
+	    <font face="verdana" size="-1">View full image</font></td>
+</tr>-->
+<tr>
+  <td><input type="radio" name="options" value="remove">
+	    <font face="verdana" size="-1">Remove image</font></td>
+</tr>
+</table>		 
+
+</td></tr>
+<tr>
+  <td align='center'><input type="submit" value="Submit" onclick="choose_option()"></td>
+</tr>
+</table>
+
+</form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+== Changelog ==
+
+= 1.0.2 =
+* Fixed deprecated function calls.
+* Added Google Map API key option.
+* Added some more social icons options.
+* Updated Font Awesome to 4.6.3.
+
+= 1.0.1 =
+* Fixed post gallery format slider issue.
+* Fixed portfolio gallery format slider issue.
+* Fixed home featured sidebar widget issue.
+* Fixed Sidebar Page Id Issue.
+
+= 1.0.0 =
+* Initial release

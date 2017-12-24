@@ -1,0 +1,4 @@
+[24-Dec-2017 08:47:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/daonline/public_html/controls/catconfig.php on line 7
+[24-Dec-2017 08:47:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'daonline_bclincy'@'localhost' (using password: YES) in /home/daonline/public_html/controls/catconfig.php on line 7
+[24-Dec-2017 08:48:00 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/daonline/public_html/controls/upload.php on line 43
+[24-Dec-2017 08:48:00 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/daonline/public_html/controls/upload.php on line 46

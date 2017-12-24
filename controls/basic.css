@@ -1,0 +1,205 @@
+/* CSS Document */
+body {
+	font-family: Trebuchet MS, Tahoma, sans-serif;
+	font-size: 100%;
+	color: #000000;
+	margin: 0px;
+	padding: 0px;
+	background:#FFFFFF;
+	border-top: none;
+	
+}
+html, body { /* saves you from the "centering jump" on short pages */
+	min-height: 100%;
+	margin-bottom: 1px;
+}
+/* Regular page setup styles */
+a:link {
+	color: #000099;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #0066FF;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF0000;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFF00;
+}
+h1{ 
+  font-size:20px;
+  font-weight:bold;
+  padding:5px;
+}
+label{
+	display:inline-block;
+	text-align:right;
+	padding-right:10px;
+	width:200px;
+	float:left;
+}
+form p{
+	clear:both;
+}
+#header {
+   padding-top: 1px;
+   background:#006699;
+   	border-bottom-style: solid;
+	border-bottom-width:2px;
+	border-bottom-color:#EEEEE;
+ }
+ #navlink { 
+    margin: 0; padding: 0.5em 3em;
+	background: #686397; color: #FFF;
+ }
+ #navigation{
+	text-align: right;
+	vertical-align:middle;
+	color: #FFF;
+	background-color: #CECECE;
+	padding: .2em;
+ }
+ #navigation a{
+   color:#660000;
+   text-decoration:none;
+ }
+ #navigation a:hover{
+    border:1px solid #FF0000;
+    color:#0000CC;
+	text-decoration:underline;
+	background-color:#FFFFCC;
+}
+#navigation p{ display:inline; text-align:right;}
+#navigation ol{ display:inline; text-align:right;}
+#navigation li{ 	
+    display: inline;
+	margin-right: 0.5em; padding-right: 0.75em;
+	border-right: 1px solid #99C;
+	font-weight: bold;
+}
+#navlinks li.last {
+	border-right: 0;
+}
+#loginas{ 
+   padding-left:5px;
+   color:#FFFFFF;
+   font-weight:800;
+}
+#admintools{
+  margin-left:400;
+  float:right;
+}
+#content {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.fieldinput{
+padding-bottom:12px;
+}
+.product{
+ padding-left: 25px;
+ color:#000066;
+}
+table{
+	border:none;
+}
+thead{
+	border-bottom:#000 dotted 2px;
+	padding: 10px;
+	font-weight:bold;
+	
+
+}
+.invoiceheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 2.3em;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #3366FF;
+	height: 40px;
+}
+#invoice{ 
+  padding-left: 5px;
+}
+input, textarea { 
+	padding: 9px;
+	border: solid 1px #E5E5E5;
+	outline: 0;
+	font: normal 13px/100% Verdana, Tahoma, sans-serif;
+	width: 200px;
+	background: #FFFFFF url('bg_form.png') left top repeat-x;
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF));
+	background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px);
+	box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	-moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px;
+	}
+
+textarea { 
+	width: 400px;
+	max-width: 400px;
+	height: 150px;
+	line-height: 150%;
+	}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus { 
+	border-color: #C9C9C9; 
+	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
+	}
+
+input[type=submit] {
+	width: auto;
+	padding: 9px 15px;
+	background: #617798;
+	border: 0;
+	font-size: 14px;
+	color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	}
+
+#invoice input{ margin-bottom:10px; } 
+#invoice input #dated{ margin: 0 px; }
+#invoice .nomargin{ margin:0 px; }
+#box-table-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin:10px;
+	width: 100%;
+	text-align: left;
+	border-collapse: collapse;
+}
+#box-table-a th
+{
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	border-top: 4px solid #aabcfe;
+	text-align:center;
+	color: #039;
+}
+#box-table-a td
+{
+	padding: 8px;
+	background: #e8edff; 
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid transparent;
+}
+#box-table-a tr:hover td
+{
+	background: #d0dafd;
+	color: #339;
+}
+.clickable{
+	cursor:pointer;
+	cursor:hand;
+}

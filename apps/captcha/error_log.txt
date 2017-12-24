@@ -1,0 +1,124 @@
+[30-Aug-2008 22:50:42] PHP Warning:  fopen(./audio/D.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/D.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:42] PHP Warning:  fopen(./audio/D.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/D.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:42] PHP Warning:  fopen(./audio/5.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/5.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:42] PHP Warning:  fopen(./audio/C.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/C.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:57] PHP Warning:  fopen(./audio/D.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:57] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/D.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:57] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:57] PHP Warning:  fopen(./audio/D.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:57] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/D.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:57] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:57] PHP Warning:  fopen(./audio/5.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:57] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/5.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:57] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 22:50:57] PHP Warning:  fopen(./audio/C.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 22:50:57] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/C.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 22:50:57] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 22:50:57] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 23:04:56] PHP Warning:  fopen(./audio/5.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 23:04:56] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/5.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 23:04:56] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 23:04:56] PHP Warning:  fopen(./audio/M.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 23:04:56] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/M.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 23:04:56] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 23:04:56] PHP Warning:  fopen(./audio/9.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 23:04:56] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/9.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 23:04:56] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[30-Aug-2008 23:04:56] PHP Warning:  fopen(./audio/4.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[30-Aug-2008 23:04:56] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/4.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[30-Aug-2008 23:04:56] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[30-Aug-2008 23:04:56] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[02-Sep-2008 23:32:23] PHP Parse error:  syntax error, unexpected '{' in /home/daonline/public_html/apps/captcha/index.php on line 2
+[02-Sep-2008 23:58:11] PHP Parse error:  syntax error, unexpected '{' in /home/daonline/public_html/apps/captcha/index.php on line 2
+[02-Sep-2008 23:58:34] PHP Parse error:  syntax error, unexpected '<' in /home/daonline/public_html/apps/captcha/index.php on line 5
+[03-Sep-2008 00:00:42] PHP Parse error:  syntax error, unexpected ';' in /home/daonline/public_html/apps/captcha/index.php on line 3
+[07-Sep-2008 15:03:10] PHP Warning:  fopen(./audio/U.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[07-Sep-2008 15:03:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/U.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[07-Sep-2008 15:03:10] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[07-Sep-2008 15:03:10] PHP Warning:  fopen(./audio/C.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[07-Sep-2008 15:03:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/C.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[07-Sep-2008 15:03:10] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[07-Sep-2008 15:03:10] PHP Warning:  fopen(./audio/H.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[07-Sep-2008 15:03:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/H.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[07-Sep-2008 15:03:10] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[07-Sep-2008 15:03:10] PHP Warning:  fopen(./audio/G.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[07-Sep-2008 15:03:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/G.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[07-Sep-2008 15:03:10] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[07-Sep-2008 15:03:10] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[05-Aug-2009 20:51:42] PHP Warning:  fopen(./audio/M.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[05-Aug-2009 20:51:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/M.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[05-Aug-2009 20:51:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[05-Aug-2009 20:51:42] PHP Warning:  fopen(./audio/8.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[05-Aug-2009 20:51:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/8.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[05-Aug-2009 20:51:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[05-Aug-2009 20:51:42] PHP Warning:  fopen(./audio/9.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[05-Aug-2009 20:51:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/9.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[05-Aug-2009 20:51:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[05-Aug-2009 20:51:42] PHP Warning:  fopen(./audio/M.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[05-Aug-2009 20:51:42] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/M.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[05-Aug-2009 20:51:42] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[05-Aug-2009 20:51:42] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[15-Nov-2009 06:41:05] PHP Warning:  fopen(./audio/P.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[15-Nov-2009 06:41:05] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/P.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[15-Nov-2009 06:41:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[15-Nov-2009 06:41:05] PHP Warning:  fopen(./audio/K.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[15-Nov-2009 06:41:05] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/K.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[15-Nov-2009 06:41:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[15-Nov-2009 06:41:05] PHP Warning:  fopen(./audio/4.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[15-Nov-2009 06:41:05] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/4.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[15-Nov-2009 06:41:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903
+[15-Nov-2009 06:41:05] PHP Warning:  fopen(./audio/W.wav) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/daonline/public_html/apps/captcha/securimage.php on line 868
+[15-Nov-2009 06:41:05] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for ./audio/W.wav in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  fread(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 872
+[15-Nov-2009 06:41:05] PHP Warning:  unpack() [<a href='function.unpack'>function.unpack</a>]: Type N: not enough input, need 4, have 0 in /home/daonline/public_html/apps/captcha/securimage.php on line 878
+[15-Nov-2009 06:41:05] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/daonline/public_html/apps/captcha/securimage.php on line 903

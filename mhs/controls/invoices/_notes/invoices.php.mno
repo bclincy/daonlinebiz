@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_invoices" value="name:invoiceID;datatype:int,name:fname;datatype:string,name:lname;datatype:string,name:inTotal;datatype:real,name:custID;datatype:int,name:dated;datatype:date,name:balance;datatype:real,name:company;datatype:string" />
+</info>

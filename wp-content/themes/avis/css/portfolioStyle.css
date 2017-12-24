@@ -1,0 +1,42 @@
+/**
+ * @package	 WordPress
+ * @subpackage 	Avis
+ * @version 	1.0.0
+ *
+ * Portfolio Default Style
+ * Created by sketchthemes
+*/
+
+#container-isotop.four-col,#container-isotop.three-col,#container-isotop.two-col  {visibility:hidden;}
+/* Portfolio 3-col Items */
+#container-isotop.three-col {margin-top: 100px;margin-left:0;}
+/* Custom Classes
+------------------------------------------------------------ */
+#content .project_wrap dd { margin-bottom: 0px; }
+#content #isofilters {  margin-bottom: 0;}
+.group:after { visibility: hidden; display: block; content: ""; clear: both; height: 0; }
+/* Filter */
+.project_wrap dl { margin-bottom: 0;margin-top: 65px; color: #000;float: none; }
+.project_wrap dt,.project_wrap dd { float: left; }
+dt { margin-right: 5px; }
+.filter li {  float: left; list-style-type: none;  margin: 0 0 2px 0;line-height: 34px;}
+.filter li:first-child a {border-left: 0; }
+.filter a {letter-spacing: 0.2px;font-weight: 400;border-bottom: 1px solid #cdcdcd;border-left:1px solid #cdcdcd; padding:6px 15px; color: #8C7D7D; font-size: 15px;text-transform: capitalize; text-decoration: none;transition: all 0.3s linear 0s;-webkit-transition: all 0.3s linear 0s;-moz-transition: all 0.3s linear 0s;-o-transition: all 0.3s linear 0s; }
+/**** Isotope filtering ****/
+.isotope-item { z-index: 2; }
+.isotope-hidden.isotope-item {/* pointer-events: none;*/ z-index: 1; }
+.isotope,
+.isotope .isotope-item { /* change duration value to whatever you like */ -webkit-transition-duration: 0.8s;  -moz-transition-duration: 0.8s; 	  transition-duration: 0.8s; }
+.isotope { -webkit-transition-property: height, width;  -moz-transition-property: height, width; 	  transition-property: height, width; }
+.isotope .isotope-item { -webkit-transition-property: -webkit-transform, opacity;  -moz-transition-property:	-moz-transform, opacity; 	  transition-property:		 transform, opacity; }
+@media only screen and (min-width: 768px) and (max-width: 960px) { 
+/************portfolio****************/
+#content .portfolio .isotope-item {}
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.project_image {  }
+.project_title { }
+}
+@media only screen and (max-width: 480px) {
+#container-isotop {}
+}

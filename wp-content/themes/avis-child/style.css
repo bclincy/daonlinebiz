@@ -1,0 +1,384 @@
+/*
+
+ Theme Name:   Avis Child theme
+
+ Theme URI:    http://www.sketchthemes.com/themes/avis-consulting-business-wordpress-theme/
+
+ Description:  Avis is beautifully carved to bring a highly professional look to these sites. Adding to the convenience, Avis also combines some innovative features to bring about the brilliant site experience.
+
+ Author:       SketchThemes
+
+ Author URI:   http://sketchthemes.com
+
+ Template:     avis
+
+ Version:      1.0.0
+
+ Tags:         blue,gray,orange,pink,purple,dark,light,two-columns,right-sidebar,left-sidebar,fixed-layout,fluid-layout,responsive-layout,custom-colors,custom-menu,featured-images,full-width-template,post-formats,sticky-post,theme-options,threaded-comments,translation-ready
+
+ Text Domain:  avis-child
+
+*/
+/* =Theme customization starts here
+
+-------------------------------------------------------------- */
+#top-header {
+    background-color: #161c2b;
+    margin-bottom: 0px;
+    color: #000;
+}
+#top-header .first_wrapper {
+    margin: 0 auto;
+    height: 64px;
+    color: #858585;
+}
+#top-header .first_wrapper .siteinfo {
+    float: left;
+    height: auto;
+    margin-left: 20px;
+    padding: 10px 0;
+}
+.footer-seperator {
+    height: 1px;
+    margin-bottom: 5px;
+}
+.siteinfo .sitename {
+    margin-bottom: 5px;
+}
+.siteinfo .sitename a {
+    color: #FFFFFF;
+    font-size: 20px;
+    text-decoration: none;
+}
+.siteinfo .sitedescription {
+    color: #858585;
+    font-size: 12px;
+}
+#top-header .cont-info {
+    margin-top: 26px;
+}
+#top-header .custom_third_wrapper {
+    background-color: #fff;
+    color: #000;
+    margin: 0 auto;
+    border-top: 1px solid rgba(255, 255, 255, .1);
+}
+#top-header .avis-footer-container {
+    float: left;
+    padding-top: 41px;
+    margin-bottom: 43px;
+}
+#top-header li.avis-footer-container {
+    list-style: none outside none;
+}
+#main-head-wrap #header_wrap {
+    background: rgb(238, 238, 238) none repeat scroll 0 0;
+    padding-bottom: 15px;
+    position: relative;
+    z-index: 99;
+}
+#main-head-wrap #header,
+#skehead #logo .logo_inner  {
+	background: #eee;
+}
+.avis-title.avis-footer-title {
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-bottom: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 17px;
+    padding-bottom: 10px;
+}
+.avis-footer-container ul li a,
+.avis_widget a {
+    font-size: 14px;
+    margin-bottom: 10px;
+    letter-spacing: 0.3px;
+    transition: all .5s linear 0s;
+    -moz-transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+}
+.avis-footer-container ul li a:hover,
+.avis_widget a:hover {
+    transition: all .5s linear 0s;
+    -moz-transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+}
+.avis-footer-container ul li {
+    list-style: none outside none;
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+.avis-footer-container p,
+.avis-footer-container ul li a {
+    padding-left: 4px;
+    color: #FFFFFF;
+    font-size: 14px;
+    /*line-height: 18px;*/
+    font-weight: 400;
+    letter-spacing: 0.3px;
+}
+#top-header div.follow-icons li a {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.03);
+    border: none;
+}
+#top-header div.follow-icons li a:hover {
+    background: none repeat scroll 0 0 transparent !important;
+}
+#top-header div.follow-icons li a:hover:before {
+    color: #fff !important;
+}
+#top-header .custom_third_wrapper .copyright {
+    min-height: inherit;
+    font-size: 13px;
+    color: #FFFFFF;
+    letter-spacing: 0.3px;
+}
+#top-header .custom_third_wrapper .owner {
+    line-height: 20px;
+    text-align: right;
+    min-height: inherit;
+    font-size: 13px;
+    color: #ffffff;
+}
+#top-header .custom_third_wrapper a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 13px;
+}
+#top-header .custom_third_wrapper .copyright p {
+    color: #000;
+    font-size: 13.5px;
+    font-weight: 500;
+    margin: 7px;
+}
+#top-header .custom_third_wrapper a:hover {
+    color: #F54336;
+}
+a#backtop:before {
+    color: #FFFFFF;
+    content: "\f106";
+    display: block;
+    font-family: 'FontAwesome';
+    font-size: 14px;
+    margin-top: 9px;
+    text-align: center;
+}
+a#backtop {
+    background: none no-repeat scroll 0 0 #F54336;
+    bottom: 7px;
+    height: 35px;
+    line-height: 16px;
+    position: fixed;
+    right: 30px;
+    text-decoration: none;
+    width: 35px;
+    z-index: 9999;
+    transition: all .5s linear 0s;
+    -moz-transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+}
+.payment_icon > ul {
+    line-height: normal;
+    margin: 0;
+}
+.payment_icon li {
+    display: inline-block;
+    list-style: none outside none;
+    margin-left: 1px;
+}
+.payment_icon a {
+    opacity: 0.5;
+    display: block;
+    cursor: pointer;
+    transition: all .5s linear 0s;
+    -moz-transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+}
+.payment_icon a:hover {
+    opacity: 1;
+}
+#top-header .product-categories .cat-item {
+    line-height: 35px;
+}
+#top-header ul li .star-rating {
+    top: 5px;
+}
+#top-header .woocommerce.widget_top_rated_products .product_list_widget > li {
+    line-height: 40px;
+}
+/**** FOOTER WIDGET *****/
+
+#top-header .avis_widget ul ul li:before,
+#top-header .widget_text ul li:before,
+#top-header .avis_widget a:link,
+#top-header .avis_widget a:visited,
+#top-header .widget_nav_menu ul li:before,
+#top-header .widget_pages ul li:before,
+#top-header .widget_categories ul li:before,
+#top-header .wpb_taxonomy ul li:before,
+#top-header .widget_recent_entries ul li:before,
+#top-header .widget_recent_comments ul li:before,
+#top-header .widget_archive ul li:before,
+#top-header .widget_meta ul li:before,
+.avis-footer-container ul li:before {
+    content: "\f105";
+    font-family: 'FontAwesome';
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.avis-footer-container.SktFollowContact ul li:before {
+    content: "";
+}
+#top-header #menu-footer-menu li,
+ul#menu-footer-menu li {
+    float: none;
+}
+#top-header #menu-footer-menu,
+ul#menu-footer-menu {
+    float: none;
+    margin: 0;
+}
+/*** FOOTER SOCIAL ICONS ***/
+
+#top-header .social-icons {
+    margin: 5px 0px;
+}
+#top-header .social-icons li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 5px;
+    text-align: center;
+}
+#top-header .social-icons li a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    background-color: #017EFF;
+    color: #FFFFFF;
+    transition: all .5s linear 0s;
+    -moz-transition: all .5s ease 0s;
+    -webkit-transition: all .5s ease 0s;
+    -o-transition: all .5s ease 0s;
+}
+#top-header .social-icons li:hover a {
+    color: #FFFFFF;
+}
+#top-header .social-icons li.fb-icon:hover a {
+    background-color: #3B5999;
+}
+#top-header .social-icons li.tw-icon:hover a {
+    background-color: #44CCF6;
+}
+#top-header .social-icons li.linkedin-icon:hover a {
+    background-color: #0275B6;
+}
+#top-header .social-icons li.gplus-icon:hover a {
+    background-color: #D23F2F;
+}
+#top-header .social-icons li.flickr-icon:hover a {
+    background-color: #EF1283;
+}
+#top-header .social-icons li.vk-icon:hover a {
+    background-color: #EF1283;
+}
+#top-header .social-icons li.pinterest-icon:hover a {
+    background-color: #EF1283;
+}
+#top-header .social-icons li.instagram-icon:hover a {
+    background-color: #EF1283;
+}
+.page-template-template-front-page #main-head-wrap {
+    background: #eee none repeat scroll 0 0;
+    height: 83px;
+}
+
+/*== Main header ==*/
+#main-head-wrap .skehead-headernav .logo {
+    height: auto;
+    width: 120px;
+}
+#main-head-wrap .skehead-headernav .logo_inner > a {
+    margin-top: 10px;
+}
+#main-head-wrap #header_wrap {
+    padding-bottom : 10px;
+}
+#main-head-wrap .skehead-headernav .logo {
+    height: auto;
+    max-width: 100px;
+    width: 180px;
+}
+#menu-main .current-menu-item a,
+#menu-main li.menu-item:hover a {
+    color: #fff;
+}
+#main-head-wrap #skenav ul li.current_page_item > a,
+#main-head-wrap #skenav ul li.current-menu-ancestor > a,
+#main-head-wrap #skenav ul li.current-menu-item > a,
+#main-head-wrap #skenav ul li.current-menu-parent > a,
+#main-head-wrap #skenav ul li:hover > a {
+    box-shadow: 0 -3px 0 0 rgba(0, 0, 0, 0.25) inset;
+    border-radius: 2px;
+}
+.rev_slider .slider-caption-heading {
+    color: #017EFF;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.rev_slider .slider-content {
+    color: rgb(239, 42, 46);
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 19px;
+}
+#about-section-box .container {
+    padding: 50px 0px;
+}
+#about-section-box .about_section_html {
+    text-align: center;
+}
+#skenav a {
+    color: #353b48;
+    display: block;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: normal;
+    margin: 0px 10px;
+    padding: 9px 18px;
+    text-decoration: none;
+    -webkit-transition: all .3s ease 0s;
+    -moz-transition: all .3s ease 0s;
+    -o-transition: all .3s ease 0s;
+    transition: all .3s ease 0s;
+}
+.strip-icon.search-strip {
+    padding: 0 13px 0 35px;
+    line-height: 25px;
+    color: #353b48;
+}
+.contact-post .informaion select.wpcf7-select{
+	height: 43px !important;
+}
+#footer #menu-footer-services {
+    margin-top: 0;
+}
+.avis-iconbox.iconbox-top .iconbox-content {
+    min-height: 100px;
+}
+@media only screen and (max-width: 760px) {
+    #top-header {
+        display: none;
+    }
+}
